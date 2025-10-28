@@ -1,5 +1,6 @@
 "Business-process-and-ERP-Task-04-" 
-"The link to figma design -: https://www.figma.com/design/IY4O7CtyxugnarF5rqApyt/BP---ERP-task-04--Community-?node-id=0-1&t=gmuTzzoL8DJlvHl9-1"
+GROUP NO -02
+The link to figma design -: https://www.figma.com/design/IY4O7CtyxugnarF5rqApyt/BP---ERP-task-04--Community-?node-id=0-1&t=gmuTzzoL8DJlvHl9-1
 
 
 University Admission Management System - ERP Project
